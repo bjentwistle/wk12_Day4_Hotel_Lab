@@ -61,5 +61,5 @@ public class HotelTest {
         hotel.removeGuestToBedroom(0, guest);
         assertEquals(0, guests1.size());
     }
-
+//need to add check in/out  to conference rooms??
 }
